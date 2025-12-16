@@ -105,20 +105,20 @@ Dataset Example
 
 Topic - 1  NORMAL MAP:
 -
-   State-wise Analysis
+State-wise Analysis
    -
-     - Upload data and open a Sheet.
-     - Drag State to the view - a normal map appears with blue marks
-     - Drag State to Label - displays state names on the map.
-     - all states appear in one color.
-     - Drag State to Color → each state gets a different color, and a Legend  
+   - Upload data and open a Sheet.
+   - Drag State to the view - a normal map appears with blue marks
+   - Drag State to Label - displays state names on the map.
+   - all states appear in one color.
+   - Drag State to Color → each state gets a different color, and a Legend  
                              function is created 🎨Legend provides additional   
                              information
-     - Drag Region to Color → states are colored region-wise for better grouping 🌍
-   state-wise sales:
-   -
-     - Drag Sales to Label - shows total sales per state.
-     - Drag Sales to Size - it show which state is doing high sale 📈.
+   - Drag Region to Color → states are colored region-wise for better grouping 🌍
+**State-wise sales:**
+   
+   - Drag Sales to Label - shows total sales per state.
+   - Drag Sales to Size - it show which state is doing high sale 📈.
 
 Topic - 2 FILLED MAP
 -
