@@ -1,4 +1,4 @@
-📊 Tableau
+📊 Tableau Introduction:
 -
 📅 I started learning Tableau on 6th October 2025.
 
@@ -103,5 +103,33 @@ Dataset Example
      - Discount
      - Profit
 
+Topic - 1  NORMAL MAP:
+-
+   State-wise Analysis
+   -
+     - Upload data and open a Sheet.
+     - Drag State to the view - a normal map appears with blue marks
+     - Drag State to Label - displays state names on the map.
+     - all states appear in one color.
+     - Drag State to Color → each state gets a different color, and a Legend  
+                             function is created 🎨Legend provides additional   
+                             information
+     - Drag Region to Color → states are colored region-wise for better grouping 🌍
+   state-wise sales:
+   -
+     - Drag Sales to Label - shows total sales per state.
+     - Drag Sales to Size - it show which state is doing high sale 📈.
 
+Topic - 2 FILLED MAP
+-
+   State-wise Sales Analysis
+   -
+      - Drag State into the sheet → a default Normal Map is created.
+      - Change the map type to Filled Map → each state is filled with color.
+         By default, all states appear in blue.
+      - Drag State to Color - each state gets a different color 🎨.
+      - Drag Sales to Color:
+          - Darker color = higher sales
+          - Lighter color = lower sales 📊
 
+Topic - 3
