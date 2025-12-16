@@ -1,13 +1,16 @@
 📊 Tableau
+-
 📅 I started learning Tableau on 6th October 2025.
 
 What is Tableau?
+-
 
 1. Tableau is a data visualization software tool.
 2. Tableau was developed in 2003
 3. It uses EDA. It help users understand data easily using charts, graphs, and dashboards 📈.
 
 🔍 EDA (Exploratory Data Analysis)
+-
 
 Tableau is mainly used for EDA – Exploratory Data Analysis. This means:
    -  Finding patterns in data
@@ -15,12 +18,14 @@ Tableau is mainly used for EDA – Exploratory Data Analysis. This means:
    -  Making better decisions
 
 📂 Types of Data Used
+-
 Tableau is commonly used with:
   -  Sales data 🛒
   -  Marketing data 📢
   -  Hotel management data 🏨
 
 💻 Types of Tableau
+-
 There are two types of Tableau:
 
 1️⃣ Tableau Paid Version
@@ -30,3 +35,73 @@ There are two types of Tableau:
 2️⃣ Tableau Public (Free Version)
    - 99% free ✅
    - Cloud integration is not possible
+
+1. Tableau Supermarket Sales Analysis
+   -
+        - This project uses real Canadian supermarket data covering four years (2011–2014) to analyze sales and profit trends across all branches.
+        - Understanding whether sales and profits are increasing or decreasing over time, along with key insights into customer behavior and branch performance.
+   
+
+2. In This Tableau Project
+   -
+   -  Population Data: All Canadian supermarket data (2011–2014)
+   -  Sample Data: Sample data is a small part (subset) of the population data
+
+3. Customer Segments (Unique Labels) 👥
+   -
+    - Consumer 🛒 – Individual customers purchasing for personal use
+    - Corporate 🏢 – Business customers making bulk or office-related purchases
+    - Home Office 🏠 – Small business or home-based office customers
+      
+4. Product Categories 🗂️
+   -
+   - The data is organized into three main product categories:
+   - Furniture:- Chairs, tables, bookcases, and other furniture items
+   - Office Supplies:– Paper, binders, storage, and everyday office items
+   - Technology:– Computers, accessories, phones, and electronic products
+
+5. File Formats Used 📄
+   -
+   - The dataset used in this project can be stored and opened using Microsoft Excel
+   -  two common file formats:
+
+Excel File Formats 
+-
+  -  .xlsx – Standard Microsoft Excel workbook format
+  -  .csv (Comma-Separated Values) – Plain text file where values are separated by              commas
+
+Dataset Example
+-
+   - superstore.csv – Original dataset file in CSV format
+
+6. Dimensions 🧩
+   -
+  - Dimensions are categorical:
+  - Order ID
+  - Order Date
+  - Ship Date
+  - Ship Mode
+  - Customer ID
+  - Customer Name
+  - Segment (Consumer, Corporate, Home Office)
+  - Country
+  - City
+  - State
+  - Postal Code
+  - Region
+  - Product ID
+  - Category (Furniture, Office Supplies, Technology)
+  - Sub-Category
+  - Product Name
+
+7. Measures 📊
+   -
+
+  - Measures are numerical fields used for calculations and aggregations:
+  - Sales
+  - Quantity
+  - Discount
+  - Profit
+
+
+
