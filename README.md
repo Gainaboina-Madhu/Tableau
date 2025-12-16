@@ -1,4 +1,4 @@
-📊 Tableau Basics
+📊 Tableau
 📅 I started learning Tableau on 6th October 2025.
 
 What is Tableau?
