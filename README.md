@@ -36,31 +36,32 @@ There are two types of Tableau:
    - 99% free ✅
    - Cloud integration is not possible
 
-1. Tableau Supermarket Sales Analysis
+1.Tableau Supermarket Sales Analysis
    -
-        - This project uses real Canadian supermarket data covering four years (2011–2014) to analyze sales and profit trends across all branches.
-        - Understanding whether sales and profits are increasing or decreasing over time, along with key insights into customer behavior and branch performance.
+      - This project uses real Canadian supermarket data covering four years (2011–2014).
+      - To analyze sales and profit trends across all branches.
+      - Understanding whether sales and profits are increasing or decreasing over time.
    
 
-2. In This Tableau Project
+2.In This Tableau Project
    -
    -  Population Data: All Canadian supermarket data (2011–2014)
    -  Sample Data: Sample data is a small part (subset) of the population data
 
-3. Customer Segments (Unique Labels) 👥
+3.Customer Segments (Unique Labels) 👥
    -
     - Consumer 🛒 – Individual customers purchasing for personal use
     - Corporate 🏢 – Business customers making bulk or office-related purchases
     - Home Office 🏠 – Small business or home-based office customers
       
-4. Product Categories 🗂️
+4.Product Categories 🗂️
    -
    - The data is organized into three main product categories:
    - Furniture:- Chairs, tables, bookcases, and other furniture items
    - Office Supplies:– Paper, binders, storage, and everyday office items
    - Technology:– Computers, accessories, phones, and electronic products
 
-5. File Formats Used 📄
+5.File Formats Used 📄
    -
    - The dataset used in this project can be stored and opened using Microsoft Excel
    -  two common file formats:
@@ -74,34 +75,33 @@ Dataset Example
 -
    - superstore.csv – Original dataset file in CSV format
 
-6. Dimensions 🧩
+6.Dimensions 🧩
    -
-  - Dimensions are categorical:
-  - Order ID
-  - Order Date
-  - Ship Date
-  - Ship Mode
-  - Customer ID
-  - Customer Name
-  - Segment (Consumer, Corporate, Home Office)
-  - Country
-  - City
-  - State
-  - Postal Code
-  - Region
-  - Product ID
-  - Category (Furniture, Office Supplies, Technology)
-  - Sub-Category
-  - Product Name
+     - Dimensions are categorical:
+     - Order ID
+     - Order Date
+     - Ship Date
+     - Ship Mode
+     - Customer ID
+     - Customer Name
+     - Segment (Consumer, Corporate, Home Office)
+     - Country
+     - City
+     - State
+     - Postal Code
+     - Region
+     - Product ID
+     - Category (Furniture, Office Supplies, Technology)
+     - Sub-Category
+     - Product Name
 
-7. Measures 📊
+7.Measures 📊
    -
-
-  - Measures are numerical fields used for calculations and aggregations:
-  - Sales
-  - Quantity
-  - Discount
-  - Profit
+     - Measures are numerical fields used for calculations and aggregations:
+     - Sales
+     - Quantity
+     - Discount
+     - Profit
 
 
 
