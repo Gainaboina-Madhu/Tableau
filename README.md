@@ -131,4 +131,10 @@ State-wise Sales Analysis
    - Darker color = higher sales
    - Lighter color = lower sales 📊
 
-Topic - 3
+Topic - 3 Integrate Sheet into Sheet (Tooltip)
+-
+   - Create a secondary sheet with (**city_information**)
+   - Drag City into Rows, Drag Sales into Label
+   - Go to the main visualization sheet(**Filled Map**)
+   - Click on Tooltip → Insert → Sheets → select City Information.
+   - **the integrated sheet appears as a tooltip popup 📊.**
