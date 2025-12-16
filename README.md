@@ -104,7 +104,6 @@ Dataset Example
      - Profit
 
 Topic - 1  NORMAL MAP:
--
 State-wise Analysis
    -
    - Upload data and open a Sheet.
@@ -119,17 +118,17 @@ State-wise Analysis
    
    - Drag Sales to Label - shows total sales per state.
    - Drag Sales to Size - it show which state is doing high sale 📈.
-
+  
+  
 Topic - 2 FILLED MAP
--
-   State-wise Sales Analysis
+State-wise Sales Analysis
    -
-      - Drag State into the sheet → a default Normal Map is created.
-      - Change the map type to Filled Map → each state is filled with color.
+   - Drag State into the sheet → a default Normal Map is created.
+   - Change the map type to Filled Map → each state is filled with color.
          By default, all states appear in blue.
-      - Drag State to Color - each state gets a different color 🎨.
-      - Drag Sales to Color:
-          - Darker color = higher sales
-          - Lighter color = lower sales 📊
+   - Drag State to Color - each state gets a different color 🎨.
+   - Drag Sales to Color:
+   - Darker color = higher sales
+   - Lighter color = lower sales 📊
 
 Topic - 3
