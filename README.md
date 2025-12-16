@@ -138,3 +138,14 @@ Topic - 3 Integrate Sheet into Sheet (Tooltip)
    - Go to the main visualization sheet(**Filled Map**)
    - Click on Tooltip → Insert → Sheets → select City Information.
    - **the integrated sheet appears as a tooltip popup 📊.**
+
+Topic - 4  🌐 API / URL Action (Wikipedia Integration)
+-
+   - Used to connect external web data (e.g., Wikipedia) with Tableau.
+   - **Go to Worksheet → click Actions → we get pop up Select This Workbook →
+        add Action Name → Set Source Sheet Select All → Run Action on Select →
+        select New Tab. Paste the Wikipedia URL in URL(insert state at end of the            url to get open all states wikipedia page)→ Click OK to apply.**
+   - on Filled Map this operation u can do
+   - **Now, selecting a mark opens the Wikipedia page in a new tab 🔗.**
+
+Topic - 5 
