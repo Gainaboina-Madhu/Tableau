@@ -149,5 +149,50 @@ Topic - 4  🌐 API / URL Action (Wikipedia Integration)
    - on Filled Map this operation u can do
    - **Now, selecting a mark opens the Wikipedia page in a new tab 🔗.**
 
-Topic - 5 Bar Charts
+Topic - 5 Normal Table or Text Table
 -
+   - A Text Table **displays data in a simple row-and-column format using text** only, similar to a spreadsheet.
+**use:-**       
+   - Display exact values 
+   - Export data for reports and Compare detailed metrics
+ 
+🛠 How to Create a Text Table in Tableau
+-
+   - Open a new worksheet
+   - Drag dimensions (e.g., Region, Category) to Rows
+   - Drag measures (e.g., Sales, Profit) to Text(label)
+   - Format numbers and alignment as needed
+
+Topic - 6: Heat Table
+-
+   - A Heat Table shows data in a table format where colors and size's are used to represent values
+   - Darker or stronger colors indicate higher values, and lighter colors indicate lower values.
+**use:-**
+   - Quickly compare values
+   - Easier than reading large text tables
+**🛠 How to Create a Text Table in Tableau**
+   - Open a new worksheet
+   - Drag dimensions (e.g., Region, Category) to the Rows and Columns
+   - Drag a measure (e.g., Sales) to the Color mark on the Marks card
+   - Set the Marks(automatic) goto shapes type to Square.
+   - Adjust the color palette for better contrast.
+
+Topic - 7: Highlight Table
+-
+   - A Highlight Table is a table where both text and color are used              together to emphasize important values.
+   - The numbers are shown as text, and colors highlight high and low values
+**use:-**
+   - Shows exact values and patterns
+   - Quickly identifies high and low performance     
+**🛠 How to Create a Highlight Table in Tableau**
+   - open a new worksheet 
+   - Drag dimensions (e.g., Region, Category) to Rows and Columns.
+   - Drag a measure (e.g., Sales or Profit) to Text.
+   - Drag the same measure to Color.
+   - Adjust the color palette if needed.
+**Text Table → Shows numbers only, no colors.**
+**Heat Table → Shows colors only to represent values.**
+**Highlight Table → Shows both numbers and colors together to highlight values.**
+
+
+
