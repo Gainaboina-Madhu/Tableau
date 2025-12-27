@@ -194,5 +194,20 @@ Topic - 7: Highlight Table
 **Heat Table → Shows colors only to represent values.**
 **Highlight Table → Shows both numbers and colors together to highlight values.**
 
+Topic - 8: Pie Chart
+-
+   - A pie chart is used to show how different categories contribute to total supermarket sales.
+   - the pie chart displays sales distribution by product category.
+**🛠 How to Create a Highlight Table in Tableau**
+   - open a new worksheet
+   - Rename it: Sales Distribution by Category
+   - Open Tableau and load your data
+   - Drag one dimension to Rows
+   - Drag another dimension to Columns
+   - Drag a measure (like Sales) to Color
+   - Change the Marks type to Square
+
+Topic - 9: 
+
 
 
