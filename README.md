@@ -207,7 +207,7 @@ Topic - 8: Pie Chart
    - Drag a measure (like Sales) to Color
    - Change the Marks type to Square
 
-Topic - 9: 
+# Topic - 9: Tableau
 
 
 
